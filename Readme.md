@@ -21,7 +21,7 @@
 ## 📦 快速启动 (Quick Start)
 
 ### 方式一：直接运行 (推荐普通用户)
-进入 [Releases](#) 页面，下载最新打包好的 `.exe` 或 Mac 应用，双击即可运行。首次启动将引导你配置 API Key。
+进入 [Releases](https://github.com/FengFeng0508/code-log-whisperer/releases/tag/v4.0.0) 页面，下载最新打包好的 `.exe` 或 Mac 应用，双击即可运行。首次启动将引导你配置 API Key。
 
 ### 方式二：通过源码运行 (推荐开发者)
 
