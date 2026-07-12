@@ -10,8 +10,6 @@
 当你面对晦涩冗长的系统报错、Traceback 或内存溢出日志时，还在手动打开浏览器问 AI 吗？
 **Code-Log-Whisperer** 是一个极度轻量级的后台守护程序。只需**复制**报错文本，它便会在后台静默呼叫大模型，并在屏幕中央弹出“大白话”诊断结果与修复建议。
 
-![演示GIF占位符](https://via.placeholder.com/800x400?text=Replace+this+with+your+demo+GIF)
-*(💡 建议在这里录制一张 GIF：演示你复制了一段代码报错，几秒后屏幕弹出清晰中文建议的全过程。)*
 
 ## ✨ 核心特性 (Features)
 
